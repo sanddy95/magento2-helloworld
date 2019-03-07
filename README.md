@@ -1,1 +1,1 @@
-## this is a test magento 2 helloworld module
+## This is a test magento 2 helloworld module
