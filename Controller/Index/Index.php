@@ -3,7 +3,6 @@
 namespace Sandeep\HelloWorld\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
-use Magento\Shipping\Model\Rate\ResultFactory;
 
 class Index extends Action{
 
@@ -24,3 +23,4 @@ class Index extends Action{
         return $resultPage;
     }
 }
+
